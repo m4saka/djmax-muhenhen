@@ -2,8 +2,6 @@
 #include <Windows.h>
 #include <iostream>
 #include <vector>
-#include <conio.h>
-#include <tchar.h>
 #include <winuser.h> // GetAsyncKeyState,INPUT
 
 class VirtualKeyboard
